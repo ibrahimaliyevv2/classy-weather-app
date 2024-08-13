@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/classy-weather-app/static/css/main.28420eaf.css",
+    "main.js": "/classy-weather-app/static/js/main.eb1f9699.js",
+    "index.html": "/classy-weather-app/index.html",
+    "main.28420eaf.css.map": "/classy-weather-app/static/css/main.28420eaf.css.map",
+    "main.eb1f9699.js.map": "/classy-weather-app/static/js/main.eb1f9699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28420eaf.css",
+    "static/js/main.eb1f9699.js"
+  ]
+}
